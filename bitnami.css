@@ -3,15 +3,15 @@
 }
 
 table {
-  border: 0px !important;
+  border: 2px !important;
 }
 
 .module_content img{
-  min-width: 70px;
+  min-width: 50px;
 }
 
-.module_content h2{
-  font-size: 30px;
+.module_content h3{
+  font-size: 50px;
 }
 
 
